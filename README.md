@@ -1,5 +1,5 @@
 # Scientific Computing  
-Hausaufgaben in dem Modul Wissenschaftliches Rechnen zu den Themen:  
+Hausaufgaben aus dem Modul Wissenschaftliches Rechnen @TUBerlin zu den Themen:  
 Gleitkommazahlen  
 lineare Gleichungssysteme  
 lineare Ausgleichsrechnung  
