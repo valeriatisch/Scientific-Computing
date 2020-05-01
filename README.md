@@ -1,13 +1,12 @@
 # Scientific Computing  
 Hausaufgaben aus dem Modul Wissenschaftliches Rechnen @TUBerlin zu den Themen:  
 Gleitkommazahlen  
-lineare Gleichungssysteme  
-lineare Ausgleichsrechnung  
-nichtlineare Gleichungen  
+Lineare Gleichungssysteme  
+Lineare Ausgleichsrechnung  
+Nichtlineare Gleichungen  
 Eigenwerte  
 Singulärwertzerlegung  
 Approximation  
 Interpolation  
-diskrete Fouriertransformation  
-schnelle Fouriertransformation  
-Optimierung  
+Diskrete Fouriertransformation  
+Schnelle Fouriertransformation  
